@@ -24,7 +24,9 @@ Schedule Trigger → Google Sheets → IF Condition → Telegram
 5. Activate workflow
 
 ## Screenshots
-_Add screenshots here_
+![Workflow](screenshots/workflow.png)
+![Telegram](screenshots/telegram.png)
+![Sheets](screenshots/sheets.png)
 
 ## Author
 Ahmed El-Telbani
