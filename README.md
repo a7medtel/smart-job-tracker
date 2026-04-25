@@ -64,6 +64,17 @@ Deploy your own:
 4. Add credentials
 5. Activate
 
+## Screenshots
+
+### Workflow
+![Workflow](screenshots/workflow.png)
+
+### Telegram Reminder
+![Telegram](screenshots/telegram.png)
+
+### Google Sheets
+![Sheets](screenshots/sheets.png)
+
 ## Key Concepts Demonstrated
 - **Conditional Logic** — IF node with multiple AND conditions
 - **Date Handling** — converting string dates to ISO format in JavaScript
