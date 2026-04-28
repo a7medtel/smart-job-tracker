@@ -93,7 +93,8 @@
         160
       ],
       "id": "310af8ee-145a-466c-824f-d074671e69d0",
-      "name": "If"
+      "name": "If",
+      "executeOnce": true
     },
     {
       "parameters": {
@@ -115,8 +116,8 @@
       "notesInFlow": false,
       "credentials": {
         "telegramApi": {
-          "id": "JKjJqFnmtT64V3sV",
-          "name": "Telegram account"
+          "id": "tpGOUvfA5XO0V2Dn",
+          "name": "Job Tracker Bot"
         }
       }
     },
@@ -153,8 +154,8 @@
       "notesInFlow": false,
       "credentials": {
         "telegramApi": {
-          "id": "JKjJqFnmtT64V3sV",
-          "name": "Telegram account"
+          "id": "tpGOUvfA5XO0V2Dn",
+          "name": "Job Tracker Bot"
         }
       }
     },
@@ -243,7 +244,7 @@
     "executionOrder": "v1",
     "binaryMode": "separate"
   },
-  "versionId": "84e1f796-49ed-4a8a-ad17-e5ba99083ada",
+  "versionId": "e38a23ef-c6b4-4ed3-8cea-ebafeebef1c9",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "59e479b918fac390303baf3bf4fd10f6d94da77d686c870abfc9af5cee645ffb"
