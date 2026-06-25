@@ -83,8 +83,4 @@ Deploy your own:
 - **Error Handling** — dedicated error workflow with Telegram alerts
 - **Cloud Deployment** — hosting automation on Railway
 
-## Author
-**Ahmed El-Telbani**
-Automation Engineer | Python | n8n | AI Workflows
-
 [![GitHub](https://img.shields.io/badge/GitHub-a7medtel-black?logo=github)](https://github.com/a7medtel)
